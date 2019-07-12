@@ -25,3 +25,13 @@ An LMS delivers and manages instructional content, and typically handles student
 - Slow to respond to changing learner needs
 - As market fragmentation increases, more LMSsystems will become out of tune to the market demands thereby creating a higher level of dissonance with the LMS
 - Social networking tools could extend to take over some of the LMS functionality posing a new competition (already are) to LMS
+
+---
+## Use Case in Educational Institution
+1. Provide the information of student,quiz ,assigments etc.
+2. manage the information of student.
+3. show the description and information of the course and faculty.
+4. It increases the efficiency of managing the course for student.
+5. It automates the existing manual system by he help of internet.
+6. To assist the staff in capturing the effort spent on their respective working areas.
+7. Provide searching facilities & REDUCES PAPERORK.
