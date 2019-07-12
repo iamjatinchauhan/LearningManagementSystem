@@ -6,10 +6,22 @@ An LMS delivers and manages instructional content, and typically handles student
 
 ## SWOT
 ![SWOT](./image/SWOT.png)
-Long existence & well accepted STRENGTHS
+### STRENGTHS
 - Long existence & well accepted Provides a central & manageable system for online & offline training STRENGTHS
-- Long existence & well accepted Provides a central & manageable system for online & offline training Capable of integrating with the workflow STRENGTHS
-- Long existence & well accepted Provides a central & manageable system for online & offline training Capable of integrating with the workflow STRENGTHS Capable of integrating with other existing HRMS/IS
-- Long existence & well accepted Provides a central & manageable system for online & offline training Capable of integrating with the workflow STRENGTHS Capable of integrating with other existing HRMS/IS Exhaustive MIS reporting
-- Long existence & well accepted Provides a central & manageable system for online & offline training Capable of integrating with the workflow STRENGTHS Capable of integrating with other existing HRMS/IS Exhaustive MIS reporting Works excellent for course management, delivery & tracking of formal learning
-- Long existence & well accepted Provides a central & manageable system for online & offline training Capable of integrating with the workflow STRENGTHS Capable of integrating with other existing HRMS/IS Exhaustive MIS reporting Works excellent for course management, delivery & tracking of formal learning Capable of managing competency & talent management 
+- Capable of integrating with the workflow STRENGTHS
+- Capable of integrating with other existing HRMS/IS
+- Capable of integrating with other existing HRMS/IS Exhaustive MIS reporting
+- Works excellent for course management, delivery & tracking of formal learning
+- Capable of managing competency & talent management 
+### WEAKNESSES
+- Focused on control & managing more than learner experience 
+- Not ready for Web 2.0 experience and offers outdated way of course WEAKNESSES access 
+- Focused on formal learning to be pushed to learners No real standards govern LMS development
+- Overall customer experience with LMS is not consistent 
+### OPPORTUNITIES
+- To create learner-centric environments rather thancentralized course delivery system through Social & Informal learning
+- To offer talent management functionality in the context of both formal & informal learning 
+### THREATS
+- Slow to respond to changing learner needs
+- As market fragmentation increases, more LMSsystems will become out of tune to the market demands thereby creating a higher level of dissonance with the LMS
+- Social networking tools could extend to take over some of the LMS functionality posing a new competition (already are) to LMS
