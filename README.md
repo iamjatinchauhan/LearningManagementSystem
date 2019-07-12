@@ -37,10 +37,10 @@ An LMS delivers and manages instructional content, and typically handles student
 7. Provide searching facilities & REDUCES PAPERORK.
 
 ## What Are The Benefits of an LMS?
-a. The more obvious benefits of an LMS include the development of knowledge amongst students or employees. But let’s dig a little deeper into why an LMS is so useful.
-b. First, an LMS gives an organization somewhere to centrally house its training and development content. It can be stored, managed, edited and deleted from within the same software.
-c. An LMS also saves money, since traditional forms of training like seminars or training days directly impact the company’s bottom line. 
-d. With an LMS, learners can access their eLearning environment from anywhere, at any time, at their own pace and without draining additional company resources or incurring travel expenses.
+- The more obvious benefits of an LMS include the development of knowledge amongst students or employees. But let’s dig a little deeper into why an LMS is so useful.
+- First, an LMS gives an organization somewhere to centrally house its training and development content. It can be stored, managed, edited and deleted from within the same software.
+- An LMS also saves money, since traditional forms of training like seminars or training days directly impact the company’s bottom line. 
+- With an LMS, learners can access their eLearning environment from anywhere, at any time, at their own pace and without draining additional company resources or incurring travel expenses.
 
 ## How Does an LMS Work?
 - To experience the way an LMS works, let’s take a look at a very basic example of how an LMS can be deployed.
