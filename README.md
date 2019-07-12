@@ -3,3 +3,6 @@
 
 ## Purpose
 An LMS delivers and manages instructional content, and typically handles student registration, online course administration, and tracking, and assessment of student work. Some LMSs help identify progress towards learning or training goals. Most LMSs are web-based, to facilitate access. LMSs are often used by regulated industries (e.g. financial services and biopharma) for compliance training.
+
+## SWOT
+![SWOT](./image/SWOT.png)
