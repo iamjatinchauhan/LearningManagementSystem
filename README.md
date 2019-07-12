@@ -6,7 +6,7 @@ An LMS delivers and manages instructional content, and typically handles student
 
 ## SWOT:beginner:
 ![SWOT](./image/SWOT.png)
-### STRENGTHS:white_check_mark: :muscle:
+### STRENGTHS:muscle:
 - Long existence & well accepted Provides a central & manageable system for online & offline training STRENGTHS
 - Capable of integrating with the workflow STRENGTHS
 - Capable of integrating with other existing HRMS/IS
@@ -42,7 +42,7 @@ An LMS delivers and manages instructional content, and typically handles student
 - An LMS also saves money, since traditional forms of training like seminars or training days directly impact the company’s bottom line. 
 - With an LMS, learners can access their eLearning environment from anywhere, at any time, at their own pace and without draining additional company resources or incurring travel expenses.
 
-## How Does an LMS Work?
+## :white_check_mark:How Does an LMS Work?
 - To experience the way an LMS works, let’s take a look at a very basic example of how an LMS can be deployed.
 A company wants to educate its sales team about a soon-to-be-launched product.
 - To do that, they use the course builder function within their LMS to create slides, bite-sized documentation, quizzes and certifications. Once the course materials are ready, each member of the sales team can log into the LMS with their own personalized account to begin learning (and now you know where the term eLearning came from).
