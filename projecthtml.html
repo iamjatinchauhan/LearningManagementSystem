@@ -1,0 +1,32 @@
+<html>
+<head>
+<title>
+Log In page</title>
+<link rel="stylesheet"type="text/css" href="./css/style.css">
+</head>
+<body>
+<div class="loginbox">
+<img src="./image/avatar.png" class="avatar">
+<h1>LOGIN</h1>
+        <form>
+            <h3>Username</h3>
+            <input type="text" name="userid" placeholder="registration id">
+            <h3>Password</h3>
+            <input type="password" name="pswrd" placeholder="password">
+            <input type="button" onclick="check(this.form)" value="Login"/>
+            <input type="reset" value="Cancel"/>
+        </form>
+        <script language="javascript">
+            function check(form) {
+               
+                if(form.userid.value == "myuserid" && form.pswrd.value == "mypswrd") {
+                	alert(" welcome")
+                    window.open('https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA/videos')
+                }
+                else {
+                    alert("Error Password or Username")
+                }
+            }
+        </script>
+    </body>
+</html>
