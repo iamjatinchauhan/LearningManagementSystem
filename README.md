@@ -45,6 +45,6 @@ d. With an LMS, learners can access their eLearning environment from anywhere, a
 ## How Does an LMS Work?
 >To experience the way an LMS works, let’s take a look at a very basic example of how an LMS can be deployed.
 A company wants to educate its sales team about a soon-to-be-launched product.
->To do that, they use the course builder function within their LMS to create slides, bite-sized documentation, quizzes and certifications. Once the course materials are ready, each member of the sales team can log into the LMS with their own personalized account to begin learning (and now you know where the term eLearning came from).
->When an employee feels ready, he or she can take the quizzes or tests required to achieve their certification — proving that they’re qualified to sell the product at the standard required.
+-To do that, they use the course builder function within their LMS to create slides, bite-sized documentation, quizzes and certifications. Once the course materials are ready, each member of the sales team can log into the LMS with their own personalized account to begin learning (and now you know where the term eLearning came from).
+-When an employee feels ready, he or she can take the quizzes or tests required to achieve their certification — proving that they’re qualified to sell the product at the standard required.
 The LMS can track the progress of each employee, so administrators can see how well learners are moving through the course material, who has qualified, and who remains confused about the topic.
