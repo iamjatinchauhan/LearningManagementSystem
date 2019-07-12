@@ -6,3 +6,10 @@ An LMS delivers and manages instructional content, and typically handles student
 
 ## SWOT
 ![SWOT](./image/SWOT.png)
+Long existence & well accepted STRENGTHS
+- Long existence & well accepted Provides a central & manageable system for online & offline training STRENGTHS
+- Long existence & well accepted Provides a central & manageable system for online & offline training Capable of integrating with the workflow STRENGTHS
+- Long existence & well accepted Provides a central & manageable system for online & offline training Capable of integrating with the workflow STRENGTHS Capable of integrating with other existing HRMS/IS
+- Long existence & well accepted Provides a central & manageable system for online & offline training Capable of integrating with the workflow STRENGTHS Capable of integrating with other existing HRMS/IS Exhaustive MIS reporting
+- Long existence & well accepted Provides a central & manageable system for online & offline training Capable of integrating with the workflow STRENGTHS Capable of integrating with other existing HRMS/IS Exhaustive MIS reporting Works excellent for course management, delivery & tracking of formal learning
+- Long existence & well accepted Provides a central & manageable system for online & offline training Capable of integrating with the workflow STRENGTHS Capable of integrating with other existing HRMS/IS Exhaustive MIS reporting Works excellent for course management, delivery & tracking of formal learning Capable of managing competency & talent management 
