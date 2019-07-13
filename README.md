@@ -27,7 +27,7 @@ An LMS delivers and manages instructional content, and typically handles student
 - Social networking tools could extend to take over some of the LMS functionality posing a new competition (already are) to LMS
 
 ---
-## Use Case in Educational Institution:mortar_board:
+## :hammer:Use Case in Educational Institution:mortar_board:
 1. Provide the information of student,quiz ,assigments etc.
 2. manage the information of student.
 3. show the description and information of the course and faculty.
