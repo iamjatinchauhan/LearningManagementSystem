@@ -5,7 +5,7 @@
 An LMS delivers and manages instructional content, and typically handles student registration, online course administration, and tracking, and assessment of student work. Some LMSs help identify progress towards learning or training goals. Most LMSs are web-based, to facilitate access. LMSs are often used by regulated industries (e.g. financial services and biopharma) for compliance training:computer:.
 
 ## SWOT:beginner:
-![SWOT](./image/SWOT.png)
+<kbd> ![SWOT](./image/SWOT.png) </kbd>
 ### STRENGTHS:muscle:
 - Long existence & well accepted Provides a central & manageable system for online & offline training STRENGTHS
 - Capable of integrating with the workflow STRENGTHS
